@@ -1,0 +1,10 @@
+{
+  "loopback-component-explorer": {
+    "mountPath": "/explorer",
+    "uiDirs": "server/explorer",
+    "apiInfo": {
+      "title": "Colaboradores API",
+      "description": "API fornececida para uso da aplicação"
+    }
+  }
+}

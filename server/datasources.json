@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "composeMongo": {
+    "host": "ds028310.mlab.com",
+    "port": 28310,
+    "url": "mongodb://colabback:colab12345@ds028310.mlab.com:28310/colab_db",
+    "database": "colab_db",
+    "password": "colab12345",
+    "name": "composeMongo",
+    "user": "colabback",
+    "connector": "mongodb"
+  }
+}
