@@ -1,5 +1,6 @@
 {
     "id": "colab",
+    "port": 3000,
     "env": {
         "DB_USER": "colabback",
         "DB_PASSWORD": "colab12345"
